@@ -1,0 +1,95 @@
+.footer{
+	width: 100%;
+	background-color: white;
+}
+.ensure{
+	text-align: center;
+	margin: 25px 0px;
+}
+.ensure a img{
+	vertical-align: auto;
+	
+}
+.footer-link{
+	width: 1024px;
+	margin: 0 auto;
+	padding-top: 30px;
+}
+
+.footer-link div{
+	float: left;
+	width: 20%;
+	padding-left: 15px;
+
+}
+.footer-link span{
+	font-size: 16px;
+	color: #646464;
+	font-weight: bold;
+	display: block;
+}
+.footer-link a{
+	font-size: 10px;
+	color: #999999;
+	display: block;
+}
+.footer-link a:hover{
+	text-decoration: none;
+	color: #c40000;
+}
+.footer-bottom{
+	border-top: 2px solid #c40000;
+	margin-top: 20px;
+	background-color: #000000;
+	
+	position: relative;
+}
+.footer-all{
+	width: 1024px;
+	height: 222px;
+	margin: 0 auto;
+}
+.cat{
+	position: absolute;
+	top: -33px;
+	margin-left: -15px;
+	padding-left: 20px;
+}
+.about a{
+	color: #FFFFFF;
+	font-size: 12px;
+
+	margin-right: 14px;
+	
+}
+
+.about a:hover{
+	text-decoration: none;
+}
+.ali,.about{
+	padding: 10px 0px;
+	margin-left: 10px;
+}
+.ali a{
+	color: #FFFFFF;
+	font-size: 12px;
+	padding: 10px 0px;
+	margin-right:14px;
+}
+.ali a:hover{
+	text-decoration: none;
+}
+.ali span{
+	color: #FFFFFF;
+}
+.img-two{
+	color: #999999;
+	margin-left: 10px;
+}
+.copyRightYear{
+	margin: 10px 0px;
+}
+.line{
+	width: 100%;
+	border-top: 1px solid #E7E7E7;
+}
